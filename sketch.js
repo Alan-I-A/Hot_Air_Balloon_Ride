@@ -5,7 +5,7 @@ var height;
 
 function preload()
 {
-  backImg = loadImage("Hot Air Balloon-01.png");
+  backImg = loadImage("backimg.png");
   balloonImg1 = loadAnimation("Hot Air Balloon-04.png");
   balloonImg2 = loadAnimation("Hot Air Baloon-02.png","Hot Air Baloon-02.png","Hot Air Baloon-02.png",
   "Hot Air Baloon-03.png","Hot Air Baloon-03.png","Hot Air Baloon-03.png",
